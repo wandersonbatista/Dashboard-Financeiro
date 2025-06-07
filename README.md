@@ -1,3 +1,12 @@
+#DASHBOAD FINANCEIRO:
+Projeto desenvolvido para demonstrar habilidades em tecnologias de front-end modernas, com foco em Next.js, TypeScript e Tailwind CSS. A aplicação exibe dados financeiros em tempo real, consumidos de uma API externa (CoinGecko), e apresenta-os de forma visual através de cards e gráficos interativos. O objetivo foi criar uma interface limpa, responsiva e performática, aplicando as melhores práticas de desenvolvimento e componentização.
+
+-> Tecnologias usadas: React, Next.js, TypeScript, Tailwind CSS, Recharts, CoinGecko API.
+-> Link para o Deploy: Adicione o link da sua aplicação no ar (próximo passo).
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
